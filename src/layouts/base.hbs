@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+
+    {{#each css}}
+    <link rel="stylesheet" href="./src/css/{{this}}">
+    {{/each}}
+    <title>
+        {{> title}}
+    </title>
+</head>
+
+<body>
+    {{{body}}}
+</body>
+
+</html>

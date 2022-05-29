@@ -1,0 +1,34 @@
+{
+  "name": "messanger",
+  "version": "1.0.0",
+  "description": "web messanger from course from Yandex.Practicum",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.hbs --no-cache && parcel watch ./*",
+    "build": "parcel build index.hbs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petagys/yandex-web-messanger.git"
+  },
+  "keywords": [
+    "web-messanger",
+    "yandex",
+    "yandex.practicum",
+    "petagys"
+  ],
+  "author": "Petr Gusev @petagys dack2702@rambler.ru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petagys/yandex-web-messanger/issues"
+  },
+  "homepage": "https://github.com/petagys/yandex-web-messanger#readme",
+  "devDependencies": {
+    "@anikin/parcel-transformer-handlebars": "^1.0.9",
+    "autoprefixer": "^10.4.7",
+    "parcel": "^2.3.2",
+    "postcss": "^8.4.14",
+    "postcss-nested": "^5.0.6",
+    "postcss-preset-env": "^7.6.0"
+  }
+}
