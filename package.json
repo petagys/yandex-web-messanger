@@ -4,7 +4,7 @@
   "description": "web messanger from course from Yandex.Practicum",
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.hbs --no-cache && parcel watch ./*",
+    "start": "parcel src/pages/index.hbs --no-cache && parcel watch ./*",
     "build": "parcel build index.hbs"
   },
   "repository": {
