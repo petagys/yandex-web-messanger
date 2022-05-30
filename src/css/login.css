@@ -9,7 +9,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    
+
 }
 
 body {
@@ -17,7 +17,27 @@ body {
     height: 100vh;
 }
 
+a {
+    color: #00A523;
+    text-decoration: none;
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
 .outerBlock {
     height: 100vh;
     position: relative;
+}
+
+.loginBlock {
+    margin-bottom: 20px;
+}
+
+.inputsBlock {
+    margin-bottom: 108px;
+}
+
+.linkBlock {
+    padding: 12px 0;
 }
