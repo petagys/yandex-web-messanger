@@ -4,3 +4,7 @@
 
 Спринт1
 Создание ветки sprint_1 в гитхабе
+
+За основу взял макет от Яндекс.Практикума: https://www.figma.com/file/jF5fFFzgGOxQeB4CmKWTiE/Chat_external_link?node-id=20%3A236
+Шаблонизатор: Handlebars.
+
