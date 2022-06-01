@@ -1,0 +1,36 @@
+.login__box {
+  width: 90%;
+  margin: 0 auto;
+  position: relative;
+}
+
+.login__box input {
+  width: 100%;
+  background: none;
+  border: none;
+  border-bottom: 2px solid #00a523;
+  outline: none;
+  padding: 10px 0;
+  font-size: 18px;
+}
+
+.login__box input:focus ~ label, .login__box input:valid ~ label {
+  color: #00a523;
+  font-size: 14px;
+  font-weight: 700;
+  top: -20px;
+  left: 0;
+}
+
+.login__box label {
+  color: #c6c6c6;
+  pointer-events: none;
+  padding: 10px 0;
+  font-size: 16px;
+  transition: all .5s;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+/*# sourceMappingURL=registration.d673d5e5.css.map */

@@ -1,0 +1,15 @@
+body {
+  height: 100vh;
+  margin: 0;
+}
+
+a {
+  color: #00a523;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/*# sourceMappingURL=registration.3092e1e0.css.map */

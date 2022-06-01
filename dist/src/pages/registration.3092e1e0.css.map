@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;AAKA;;;;;AAKA","sources":["src/css/index.css"],"sourcesContent":["body {\r\n    margin: 0;\r\n    height: 100vh;\r\n}\r\n\r\na {\r\n    color: #00A523;\r\n    text-decoration: none;\r\n\r\n    &:hover {\r\n        text-decoration: underline;\r\n    }\r\n}"],"names":[],"version":3,"file":"registration.3092e1e0.css.map","sourceRoot":"/__parcel_source_root/"}

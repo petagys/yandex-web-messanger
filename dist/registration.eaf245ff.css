@@ -1,0 +1,16 @@
+.btn {
+  color: #00a523;
+  cursor: pointer;
+  background-color: #fff;
+  border: 2px solid #00a523;
+  border-radius: 8px;
+  padding: 4px 28px;
+  font-size: 16px;
+}
+
+.btn:hover {
+  color: #fff;
+  background-color: #00a523;
+}
+
+/*# sourceMappingURL=registration.eaf245ff.css.map */
